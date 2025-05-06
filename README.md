@@ -19,3 +19,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 Inspired by the simplicity and educational value of CHIP-8 emulators. This project serves as a personal learning exercise in emulator development and graphics programming.
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
