@@ -1,0 +1,44 @@
+# C++ build files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# JUCE (if used with Projucer)
+*.jucer
+*.user
+
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.sln
+*.sdf
+*.opensdf
+*.db
+ipch/
+Debug/
+Release/
+*.log
+
+# macOS
+.DS_Store
+
+# IDE-specific
+.idea/
+*.iml
+
+# Backup files
+*~
+*.swp
+*.tmp
